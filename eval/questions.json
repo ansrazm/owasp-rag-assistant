@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Bagaimana cara mencegah SQL injection?",
+    "expected_source": "a03_injection.md"
+  },
+  {
+    "question": "Apa itu IDOR dan bagaimana mencegahnya?",
+    "expected_source": "a01_broken_access_control.md"
+  },
+  {
+    "question": "Algoritma hash apa yang sebaiknya dipakai untuk menyimpan password?",
+    "expected_source": "a02_cryptographic_failures.md"
+  },
+  {
+    "question": "Mengapa stack trace tidak boleh ditampilkan ke pengguna?",
+    "expected_source": "a05_security_misconfiguration.md"
+  },
+  {
+    "question": "Bagaimana mendeteksi dependensi yang punya celah keamanan?",
+    "expected_source": "a06_vulnerable_outdated_components.md"
+  },
+  {
+    "question": "Apa itu credential stuffing dan solusinya?",
+    "expected_source": "a07_authentication_failures.md"
+  },
+  {
+    "question": "Bagaimana memastikan webhook tidak dipalsukan?",
+    "expected_source": "a08_software_data_integrity_failures.md"
+  },
+  {
+    "question": "Event apa saja yang perlu dicatat di log keamanan?",
+    "expected_source": "a09_logging_monitoring_failures.md"
+  },
+  {
+    "question": "Apa itu SSRF dan apa contoh dampaknya?",
+    "expected_source": "a10_ssrf.md"
+  },
+  {
+    "question": "Apa itu threat modeling dalam desain aplikasi?",
+    "expected_source": "a04_insecure_design.md"
+  },
+  {
+    "question": "Bagaimana melindungi data sensitif saat dikirim lewat jaringan?",
+    "expected_source": "a02_cryptographic_failures.md"
+  },
+  {
+    "question": "Apa maksud prinsip deny by default?",
+    "expected_source": "a01_broken_access_control.md"
+  },
+  {
+    "question": "Mengapa kredensial default berbahaya?",
+    "expected_source": "a05_security_misconfiguration.md"
+  },
+  {
+    "question": "Mengapa session harus dibatalkan saat logout?",
+    "expected_source": "a07_authentication_failures.md"
+  }
+]
