@@ -1,4 +1,4 @@
-# rag-mlops-demo
+# owasp-rag-assistant
 
 A small, end-to-end **Retrieval-Augmented Generation (RAG)** service with basic **MLOps** practices:
 experiment tracking, a versioned index, containerized deployment, and CI.
